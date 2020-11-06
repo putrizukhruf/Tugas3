@@ -1,0 +1,261 @@
+#tittle .container-fluid{
+    padding-top: 3%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 7%;
+}
+
+.tittle{
+    background-image: url("Background.png");
+    background-size: cover;
+    height: 846px;
+    box-sizing: border-box;
+    padding: 28px 165px;
+    font-family: 'Manrope', sans-serif;
+    /*background-color: #cccccc;
+	height: 700px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	font-size: 20px;
+	font-weight: bold;
+    line-height: 1;*/
+}
+
+.navbar-brand{
+    font-family: Manrope;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.nav-item{
+    font-family: Manrope;
+    font-size: 1,5rem;
+    font-weight: 600;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.myButton {
+	box-shadow:inset 0px 1px 3px 0px #313333;
+	background:linear-gradient(to bottom, #6e706f 5%, #464a4a 100%);
+	background-color:#6e706f;
+	border-radius:5px;
+	border:1px solid #2d3331;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 23px;
+	text-decoration:none;
+    text-shadow:0px -1px 0px #272929;
+    margin-left: auto;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #464a4a 5%, #6e706f 100%);
+	background-color:#464a4a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.col-lg-6 h1{
+    font-family: Manrope;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.myButton2 {
+	box-shadow:inset 0px 1px 0px 0px #e184f3;
+	background:linear-gradient(to bottom, #c123de 5%, #a20dbd 100%);
+	background-color:#c123de;
+	border-radius:6px;
+	border:1px solid #a511c0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:12px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #9b14b3;
+}
+.myButton2:hover {
+	background:linear-gradient(to bottom, #a20dbd 5%, #c123de 100%);
+	background-color:#a20dbd;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+
+#features {
+	position: relative;
+}
+
+#features .container-fluid{
+	padding: 7% 15%;
+}
+
+#features2{
+	text-align: center;
+	padding: 7% 15%;
+}
+
+#features2 h1{
+	font-family: Manrope;
+	font-weight: 1000;
+	font-size: 3,5rem;
+}
+
+#features2 p{
+	font-family: Manrope;
+	font-size: 1,5rem;
+	line-height: 2rem;
+}
+
+.col-lg-4 h3{
+	font-family: Manrope;
+	font-size: 1,8rem;
+	font-weight: 900;
+}
+
+.col-lg-4 p{
+	font-family: Manrope;
+	font-size: 1,5rem;
+}
+
+.feature-icon{
+	color: lightseagreen;
+}
+
+#features3{
+	background-color:#D5FAFC;
+	font-family: Manrope;
+	padding: 50px;
+}
+
+#features3 h2{
+	margin-top: auto;
+	margin-left: 100px;
+	font-weight: bolder;
+	line-height: 3rem;
+	position: static;
+	width: 445px;
+	height: 200px;
+}
+
+#features3 p{
+	margin-left: 100px;
+	position: static;
+	width: 445px;
+	height: 32px;
+	top: 136px;
+/* Lead / Lead 1 */
+	font-family: Manrope;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 32px;
+}
+
+#rectangle{
+	margin-left: 100px;
+	height: 300px;
+	width: 500px;
+	background-color:white;	
+}
+
+#rectangle p{
+	margin-left: 30px;
+	font-size: 18px;
+}
+
+#rectangle h4{
+	margin-left: 30px;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+#rectangle2{
+	height: 300px;
+	width: 500px;
+	background-color:white;
+	margin-left: 150px;
+}
+
+#rectangle2 p{
+	margin-left: 30px;
+	font-size: 18px;
+}
+
+#rectangle2 h4{
+	margin-left: 30px;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+#rectangle3{
+	margin-left: 860px;
+	height: 300px;
+	width: 500px;
+	background-color:white;	
+}
+
+#rectangle3 p{
+	margin-left: 30px;
+	font-size: 18px;
+}
+
+#rectangle3 h4{
+	margin-left: 30px;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+#features4{
+	background-color:rgb(255, 196, 174);
+}
+
+#features4 .col-lg-6{
+	margin-top: 25px;
+	text-align: center;
+}
+
+#features4 .col-lg-3{
+	margin-top: 25px;
+	text-align: left;
+}
+
+#features5{
+	margin-top: 25px;
+}
+
+h2{
+	text-align: center;
+	font-weight: bolder;
+}
+
+#features5 .col-lg-6{
+	text-align: left;
+	font-size: 2,5rem;
+	font-family: Manrope;
+	text-align: left;
+}
+
+#features5 .picture5{
+	margin-left: 20%;
+}
+
+#features6 .col-lg-6{
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+
